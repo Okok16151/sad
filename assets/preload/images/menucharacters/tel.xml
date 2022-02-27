@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tel.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tel0000" x="0" y="0" width="621" height="512" frameX="0" frameY="-4" frameWidth="621" frameHeight="516"/>
+	<SubTexture name="tel0001" x="621" y="0" width="621" height="514" frameX="0" frameY="-2" frameWidth="621" frameHeight="516"/>
+	<SubTexture name="tel0002" x="1242" y="0" width="621" height="516"/>
+	<SubTexture name="tel0003" x="0" y="516" width="621" height="514" frameX="0" frameY="-2" frameWidth="621" frameHeight="516"/>
+</TextureAtlas>

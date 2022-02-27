@@ -1,0 +1,10 @@
+{
+	"idle_anim": "tel",
+	"image": "tel",
+	"position": [
+		155,
+		70
+	],
+	"scale": 0.55,
+	"confirm_anim": "tel"
+}
